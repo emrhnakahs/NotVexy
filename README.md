@@ -1,3 +1,6 @@
+# Ben Vexy <img src="https://komarev.com/ghpvc/?username=notvexy&label=Ziyaretçi%20Sayısı&color=552b75" alt="utw0" />
+
+
 ## Buralardan ulaşabilirsiniz
 <div align="center">
 <a href="https://www.instagram.com/emrhn.akbs/?hl=tr" target"blank_"> <!--Sol tarafa bak abi orada kendi github linkini koy-->
