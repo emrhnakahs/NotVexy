@@ -3,7 +3,7 @@
 
 ## Buralardan ulaşabilirsiniz
 <div align="center">
- <a href="https://www.instagram.com/emrhn.akbs/?hl=tr" target"blank_"> <!--Sol tarafa bak abi orada kendi github linkini koy-->
+ <a href="https://www.instagram.com/vexysocial/?hl=tr" target"blank_"> <!--Sol tarafa bak abi orada kendi github linkini koy-->
 <img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="https://open.spotify.com/user/31ojfhgn6gqwaq3e7nmypaex2cqq?si=jVnyT9jlTw" target"blank_">
 <img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
